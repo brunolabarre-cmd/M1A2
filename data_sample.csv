@@ -1,4 +1,4 @@
-customer_id;customer_size;digital_tenure_months;share_digital_orders;assortment_coverage;minutes_on_site;avg_minutes_per_page;unique_pages_visited;add_to_cart_count;revome_from_cart_count;minutes_purchase;suggested_purchase
+customer_id,customer_size,digital_tenure_months,share_digital_orders,assortment_coverage,minutes_on_site,avg_minutes_per_page,unique_pages_visited,add_to_cart_count,revome_from_cart_count,minutes_purchase,suggested_purchase
 1;Medium;6;88.8888888888889;0.06451612903225806;51.91445718333333;2.7323398517543858;10.0;3.0;0.0;5.0;0
 2;Medium;9;100.0;0.07439024390243902;75.56668261666665;0.706230678660436;13.0;32.0;0.0;62.0;0
 3;Medium;12;50.0;0.08377659574468085;50.86106621666665;0.8769149347701146;14.0;22.0;0.0;31.0;0
@@ -299,3 +299,4 @@ customer_id;customer_size;digital_tenure_months;share_digital_orders;assortment_
 298;Medium;9;60.0;0.1077127659574468;52.67416946666666;1.1971402151515151;12.0;6.0;8.0;41.0;0
 299;Small;4;100.0;0.02304147465437788;6.1962989833333335;0.2294925549382716;12.0;5.0;5.0;5.0;0
 300;Very Large;0;40.0;0.43333333333333335;34.214568233333324;1.487589923188405;10.0;43.0;1.0;32.0;0
+
